@@ -194,4 +194,43 @@
 // test()
 // Xatolik bor. Ushbu holatni to’g’rilash uchun nima qilshimiz kerak?
 
+// 28. function test() {
+//     var a = 1;
+//     switch (a) {
+//       case 1:
+//         console.log('a = 1');
+//       case 2:
+//         console.log('a = 2');
+//         break;
+//     }
+// }
+// test()
+// Consoleda qanday javob chiqadi?
+
+// 29. switch da biz default ni qachon ishlatamiz?
+
+// 30. Biz else if dan qachon va qay holatlarda foydalanamiz
+
+// 7.for
+// 31. for (let i = 0; i < 5; ) {
+//   console.log(i++ + i++);
+// }
+// Consoleda qanday javob chiqadi?
+
+// 32. for ichida ishlatiluvchi for "Nested for", bizga nima maqsadda kerak bo'ladi?
+
+// 33. var test = 'webbrain academy'.repeat(2);
+// a = 0;
+// for (let i = 0; i < test.length; i++) {
+//   (test[i] === 'a') && a++
+// }
+// console.log(a + ++a );
+// Consoleda qanday javob chiqadi?
+
+// 34. var test = '   webbrain   academy   '.repeat(2);
+// for (let i = 0; i < test.length; i++) {
+// }
+// console.log(test.trim() );
+// Ushbu joyda trim() qanday vazifani bajarayabdi?
+
 
