@@ -244,6 +244,11 @@
 // 1.	Web"brain" Academy
 // 2.	Web "Brain" 
 //      Academy         Apple
+// 3.	Web "Brain" 
+//      Academy         Apple
+//     String
+// 4.	A
+// 5.	-1
 
 
 
