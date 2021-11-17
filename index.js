@@ -271,6 +271,34 @@
 //      ]
 //     [ 0, 1, 2, 3 ]
 // 18.	Is not defined
-
+// 20.	Error
+// 21.	My name 19
+// My surname Juraev
+// My age Otabek
+// 22.	My name Otabek
+//    undefined
+// 23.	Otabek Otabek
+// 24.	Hello David  welcome WBBA
+//     David Otabek
+// 25.is not defined
+// 26. Problem
+// 28. a = 1
+// a = 2
+// 31. 1
+//    5
+//    9
+// 33. 13
+// 34. webbrain   academy      webbrain   academy
+// 35. 0
+//  1
+//  2
+//  3
+//  4
+//  5
+//  6
+//  7
+//  8
+//  9
+//  10
 
 
