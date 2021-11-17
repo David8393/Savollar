@@ -232,9 +232,18 @@
 // }
 // console.log(test.trim() );
 // Ushbu joyda trim() qanday vazifani bajarayabdi?
+
 // 35. let i = 5;
 // for (let i = 0; i < 10; i++) {
 //  console.log(i); 
 // }
 //  console.log(i + i--); 
 // Consoleda qanday javob chiqadi?
+
+// Javoblar:
+// 1.	Web"brain" Academy
+// 2.	Web "Brain" 
+//      Academy         Apple
+
+
+
